@@ -1,0 +1,39 @@
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+#quote-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+#quote-content {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+#quote-originator {
+  font-style: italic;
+  color: #555;
+}
+
+#quote-tags {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+#new-quote-btn {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
